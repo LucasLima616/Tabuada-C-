@@ -1,0 +1,13 @@
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/bin/Debug/netcoreapp3.1/Exerciocio .net
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/bin/Debug/netcoreapp3.1/Exerciocio .net.deps.json
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/bin/Debug/netcoreapp3.1/Exerciocio .net.runtimeconfig.json
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/bin/Debug/netcoreapp3.1/Exerciocio .net.runtimeconfig.dev.json
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/bin/Debug/netcoreapp3.1/Exerciocio .net.dll
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/bin/Debug/netcoreapp3.1/Exerciocio .net.pdb
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/obj/Debug/netcoreapp3.1/Exerciocio .net.csprojAssemblyReference.cache
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/obj/Debug/netcoreapp3.1/Exerciocio .net.AssemblyInfoInputs.cache
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/obj/Debug/netcoreapp3.1/Exerciocio .net.AssemblyInfo.cs
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/obj/Debug/netcoreapp3.1/Exerciocio .net.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/obj/Debug/netcoreapp3.1/Exerciocio .net.dll
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/obj/Debug/netcoreapp3.1/Exerciocio .net.pdb
+/home/lucas/Documentos/AulaAlgoritimos/Exerciocio .net/obj/Debug/netcoreapp3.1/Exerciocio .net.genruntimeconfig.cache
